@@ -18,7 +18,7 @@ This project can be viewed [here](https://nbkim89.github.io/day-planner).
 
 The following animation demonstrates the application functionality:
 
-![day planner demo](./example.gif)
+![day planner demo](./Assets/example.gif)
 
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
